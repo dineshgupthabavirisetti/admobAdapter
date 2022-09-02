@@ -1,0 +1,6 @@
+framework module Pods_IMAdMobAdapter {
+  umbrella header "Pods-IMAdMobAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
